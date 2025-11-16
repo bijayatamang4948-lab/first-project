@@ -24,3 +24,5 @@ names = input("Enter any name: ")
 
 print(names[::-1])
 
+print("how are you xoro bijay")
+
